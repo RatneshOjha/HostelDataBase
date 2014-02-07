@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hostel Buzz</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+<link rel="stylesheet" href="css/styles.css" />
+<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+<script type="text/javascript" src="script/script.js"></script>
+</head>
+<body>
+<div data-role="page" id="hostelBuzz">
+  <div data-role="header" data-position="fixed" data-theme="b">
+    <h1>Hostel Buzz</h1>
+  </div>
+  <div data-role="content">
+    <ul id="hostelDetail" data-role="listview" data-filter="true" data-filter-placeholder="Search..." data-inset="true" data-theme="d">
+    </ul>
+  </div>
+  <div data-role="footer" data-position="fixed" data-theme="b">
+    <div data-role="navbar">
+            <ul>
+				<li><a data-iconpos="top" data-role="button" data-icon="plus" id="new"  href="#">New</a></li>
+				<li><a data-iconpos="top" data-role="button" data-icon="star" id="update" href="#">Update</a></li>
+				<li><a data-iconpos="top" data-role="button" data-icon="delete" id="delete" href="#">Delete</a></li>
+				<li><a data-iconpos="top" data-role="button" data-icon="info" href="#">Rent Status</a></li>
+			</ul>
+    </div>
+  </div>
+</div>
+</body>
+</html>

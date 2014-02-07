@@ -1,0 +1,79 @@
+#profImgCont{width:20%; text-align:center;}
+#profImgCont div.ui-bar, #profName div.ui-bar{height:100px;}
+#profileGrid #profName{width:80%;}
+.profileGrid div.lblDesc-col p, #profName h1{padding:0; margin:0;}
+#profName p{padding:0; margin:5px 0 0 0;}
+.profileGrid div.label-col{width:20%;}
+.profileGrid div.lblDesc-col{width:80%;}
+.profileGrid div.lblDesc-col .ui-bar, #profName p{font-weight:normal; line-height:20px;}
+.ui-listview-filter-inset{margin: 0 auto 5px;}
+.ui-corner-top{border-top-left-radius:0; border-top-right-radius:0;}
+.ui-corner-bottom{border-bottom-left-radius:0;border-bottom-right-radius:0;} 
+.ui-listview-inset .ui-li{border-left-width:0; border-right-width:0;}
+.ui-content .ui-listview-inset{margin:0;}
+.ui-content{padding:0;}
+.ui-input-text.ui-focus, .ui-input-search.ui-focus{box-shadow: 0 0 5px #387BBE;}
+.deleteCheck{position:absolute; top:35%; right:8px;}
+.ui-field-contain, .ui-mobile fieldset.ui-field-contain{margin:0; padding:0;}
+.newprofile div.lblDesc-col div.ui-bar, .newprofile div.label-col div.ui-bar  {height:30px;}
+.newprofile input.ui-input-text{font-size:14px;}
+.newprofile div.ui-bar label{line-height:30px;}
+.floatleft{float:left;}
+.newprofile #phoneNo,.newprofile #alterNo{width:74%;}
+.vrtHeight{line-height: 30px;}
+#buttonGroup{text-align:center;}
+.ui-field-contain .ui-btn.ui-submit {margin:10px 5px;}
+
+@media screen and (max-width:358px) {
+	input.ui-input-text, textarea.ui-input-text{font-size:14px;}
+	
+	.ui-li-heading{font-size:14px;}
+	.ui-li-desc{font-size:11px;}
+	#profName div.ui-bar, #profName div.ui-body{padding:0.4em 5px;}
+	#profImgCont div.ui-bar, #profImgCont div.ui-body{padding:0.4em 0;}
+	#profImgCont{width:25%; text-align:center;}
+    #profileGrid #profName{width:75%;}
+    #profImgCont img{width:50px; height:50px;}
+	#profImgCont div.ui-bar, #profName div.ui-bar{height:60px;}
+  .profileGrid div.label-col{width:25%;}
+.profileGrid div.lblDesc-col{width:75%;}
+  .profileGrid div.label-col .ui-bar{height:40px; padding:0.4em; }
+  .profileGrid div.lblDesc-col .ui-bar{height:40px; padding:0.4em;}
+  .ui-bar{
+  	 font-size:11px;
+  }
+  .newprofile div.ui-bar label{line-height:16px;}
+  .newprofile #phoneNo,.newprofile #alterNo{width:90%;}
+  .ui-btn-inner{font-size:12px; padding:0.4em 10px;}
+  .ui-li-thumb{max-height: 75px;}
+}
+
+
+@media screen and (min-width:360px) and (max-width: 767px) {	
+	#profImgCont{width:25%; text-align:center;}
+	#profName div.ui-bar, #profName div.ui-body{padding:0.4em 5px;}
+    #profileGrid #profName{width:75%;}
+    #profImgCont img{width:50px; height:50px;}
+	#profImgCont div.ui-bar, #profName div.ui-bar{height:60px;}
+  .profileGrid div.label-col{width:25%;}
+.profileGrid div.lblDesc-col{width:75%;}
+  .profileGrid div.label-col .ui-bar{height:40px; padding:0.4em; }
+  .profileGrid div.lblDesc-col .ui-bar{height:40px; padding:0.4em;}
+  .ui-bar{
+  	 font-size:11px;
+  }
+  .newprofile div.ui-bar label{line-height:16px;}
+  .newprofile #phoneNo,.newprofile #alterNo{width:91%;}
+   .ui-btn-inner{font-size:14px; padding:0.5em 14px;}
+   .ui-li-thumb{max-height: 77px;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 900px){
+	#profName div.ui-bar, #profName div.ui-body{padding:0.4em 5px;}
+	 .profileGrid div.label-col .ui-bar{height:40px; padding:0.4em; }
+  .profileGrid div.lblDesc-col .ui-bar{height:40px; padding:0.4em;}
+  .ui-bar{
+  	 font-size:14px;
+  }
+  .newprofile #phoneNo,.newprofile #alterNo{width:73%;}
+}

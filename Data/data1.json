@@ -1,0 +1,153 @@
+{
+"hostelmember":[
+            {
+                "id": 1,
+                "name": "Alma Gedon",
+                "company": "Amdocs",
+                "department": "Software",
+				"parmanentAddr": "Madh Pradesh",
+				"dob": "12 Nov 1986",
+				"companyAddr": "Pune",
+				"hjd": "14 Jun 2011",
+				"emailId": "alma.gedon@gmail.com",
+				"phoneNo": 7738869543,
+				"alterNo": 8097856186,
+				"panNo": "ALKAD35M91"
+                
+            },
+            {
+                "id": 2,
+                "name": "Patty Cakes",
+                "company": "Accenture",
+                "department": "HR",
+				"parmanentAddr": "Deihi",
+				"dob": "03 Feb 1984",
+				"companyAddr": "Pune",
+				"hjd": "05 Dec 2012",
+				"emailId": "patty.cakes@gmail.com",
+				"phoneNo": 9270869964,
+				"alterNo": 9769856186,
+				"panNo": "PQMON49Z65"
+               
+            },
+            {
+                "id": 3,
+                "name": "Derri Connecticut",
+                "company": "Cognizant",
+                "department": "Marketing",
+				"parmanentAddr": "Gujrat",
+				"dob": "15 Dec 1985",
+				"companyAddr": "Pune",
+				"hjd": "20 Oct 2012",
+				"emailId": "derri.connecticut@gmail.com",
+				"phoneNo": 8097853946,
+				"alterNo": 9820451299,
+				"panNo": "FQAXG16G73"
+                
+            },
+            {
+                "id": 4,
+                "name": "Michael Abend",
+                "company": "Etos",
+                "department": "Software",
+				"parmanentAddr": "Mumbai",
+				"dob": "10 Sep 1987",
+				"companyAddr": "Pune",
+				"hjd": "04 Jun 2012",
+				"emailId": "michael.abend@gmail.com",
+				"phoneNo": 9819853154,
+				"alterNo": 9969612721,
+				"panNo": "AMQPK34F81"
+                
+            },
+            {
+                "id": 5,
+                "name": "Barbara Taylor",
+                "company": "Symantec",
+                "department": "Tester",
+				"parmanentAddr": "Kolkata",
+				"dob": "28 Nov 1986",
+				"companyAddr": "Pune",
+				"hjd": "08 Jan 2013",
+				"emailId": "barbara.taylor@gmail.com",
+				"phoneNo": 9887641281,
+				"alterNo": 9818961739,
+				"panNo": "KQJAM75S84"                
+            },
+            {
+                "id": 6,
+                "name": "Mary Ann O'Brien",
+                "company": "Deloit",
+                "department": "Software",
+				"parmanentAddr": "Bhopal",
+				"dob": "05 Jan 1986",
+				"companyAddr": "Pune",
+				"hjd": "14 May 2012",
+				"emailId": "mary.brien@gmail.com",
+				"phoneNo": 8088561964,
+				"alterNo": 9820318462,
+				"panNo": "ALWMX86J49"
+                
+            },
+            {
+                "id": 7,
+                "name": "Donna Paccione",
+                "company": "Accenture",
+                "department": "Software",
+				"parmanentAddr": "Mumbai",
+				"dob": "18 Mar 1985",
+				"companyAddr": "Pune",
+				"hjd": "08 July 2012",
+				"emailId": "donna.paccione@gmail.com",
+				"phoneNo": 9820869543,
+				"alterNo": 9788856186,
+				"panNo": "AMQLQ45E91"
+                
+            },
+            {
+                "id": 8,
+                "name": "Anthony Valentino",
+                "company": "Symantec",
+                "department": "Accountant",
+				"parmanentAddr": "Delhi",
+				"dob": "03 June 1986",
+				"companyAddr": "Pune",
+				"hjd": "12 Jan 2013",
+				"emailId": "anthony.val@yahoo.com",
+				"phoneNo": 9768869526,
+				"alterNo": 8088856125,
+				"panNo": "PNAVQ45Y61"
+                
+            },
+            {
+                "id": 9,
+                "name": "Linda Scalco",
+                "company": "Cybage",
+                "department": "Software",
+				"parmanentAddr": "Bangalore",
+				"dob":"24 Oct 1986",
+				"companyAddr": "Pune",
+				"hjd": "07 Nov 2011",
+				"emailId": "linda.scalco@gmail.com",
+				"phoneNo": 9820040896,
+				"alterNo": 9987040676,
+				"panNo": "AYDPM09D11"
+                
+            },
+            {
+                "id": 10,
+                "name": "Sonia  Ramirez",
+                "company": "Cognizant",
+                "department": "Testing",
+				"parmanentAddr": "Mumbai",
+				"dob": "13 Aug 1988",
+				"companyAddr": "Pune",
+				"hjd": "20 Jan 2012",
+				"emailId": "sonia.ramirez@gmail.com",
+				"phoneNo": 8454786952,
+				"alterNo": 9768856125,
+				"panNo": "AKPNQ12H55"
+                
+            }]
+            
+}
